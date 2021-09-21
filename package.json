@@ -7,6 +7,8 @@
     "express-handlebars": "^5.3.3",
     "express-session": "^1.17.2",
     "handlebars": "^4.7.7",
+    "heroku": "^7.59.0",
+    "mysql": "^2.18.1",
     "mysql2": "^2.3.0",
     "node": "^16.9.1",
     "sequelize": "^6.6.5",
