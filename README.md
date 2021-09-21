@@ -36,7 +36,7 @@
   ```
 
   ## Deployed Link
-  [Heroku Deploy](sadfsdf)
+  [Heroku Deploy](https://tech-blog-tb.herokuapp.com/)
 
   ## Questions
   If you have any questions about the repo please contact me at . 
